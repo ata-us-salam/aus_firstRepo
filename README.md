@@ -1,4 +1,4 @@
 # aus_firstRepo
 this is my first repo
 <br>
-i am the ownwr 
+i am the owner oh no
